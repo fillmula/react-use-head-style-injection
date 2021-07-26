@@ -1,0 +1,27 @@
+{
+    "name": "react-use-head-style-injection",
+    "version": "0.0.1",
+    "description": "Head style injection for React.js",
+    "types":"lib/index.d.ts",
+    "main":"lib/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fillmula/react-use-head-style-injection.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/fillmula/react-use-head-style-injection/issues"
+    },
+    "homepage": "https://github.com/fillmula/react-use-head-style-injection#readme",
+    "peerDependencies": {
+      "react": "^17.0.2"
+    },
+    "devDependencies": {
+      "@types/react": "^17.0.14",
+      "typescript": "^4.3.5"
+    }
+  }
